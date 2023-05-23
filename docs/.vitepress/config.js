@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: "zh-CN",
-  title: "kunkka 希望能够帮助到你",
+  title: "喊你不戴帽子",
   description: "暂时没想好写什么，就先这样吧",
 
   lastUpdated: true,
@@ -21,6 +21,7 @@ export default defineConfig({
       { text: "Home", link: "/" },
       { text: "区块链导航", link: "/blockchain-nav/" },
       { text: "前端导航", link: "/nav/" },
+      { text: "Mirror", link: "/mirror/" },
       { text: "Examples", link: "/markdown-examples" },
     ],
 
@@ -45,7 +46,7 @@ export default defineConfig({
     ],
     footer: {
       message: "如有转载或 CV 的请标注本站原文地址",
-      copyright: "Copyright © 2019-present maomao",
+      copyright: "Copyright ©",
     },
     darkModeSwitchLabel: "外观",
     returnToTopLabel: "返回顶部",
