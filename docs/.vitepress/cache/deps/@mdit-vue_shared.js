@@ -1,3 +1,5 @@
+import "./chunk-AC2VUBZ6.js";
+
 // node_modules/.pnpm/registry.npmmirror.com+@mdit-vue+shared@0.12.0/node_modules/@mdit-vue/shared/dist/index.mjs
 var htmlEscapeMap = {
   "&": "&amp;",

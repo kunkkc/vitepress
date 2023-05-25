@@ -11,7 +11,7 @@ import { NAV_DATA } from './data'
 </script>
 <style src="./index.scss"></style>
 
-# 区块链导航 （亏钱导航）
+# 区块链导航
 
 <MNavLinks v-for="{title, items} in NAV_DATA" :title="title" :items="items"/>
 

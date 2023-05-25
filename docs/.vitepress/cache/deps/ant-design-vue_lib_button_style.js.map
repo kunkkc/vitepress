@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["vite:dep-pre-bundle:external-conversion:D:/desktop/workspace/project/2023/kunkka-vitepress/node_modules/.pnpm/registry.npmmirror.com+ant-design-vue@3.2.20_vue@3.2.47/node_modules/ant-design-vue/lib/style/default.less", "vite:dep-pre-bundle:external-conversion:D:/desktop/workspace/project/2023/kunkka-vitepress/node_modules/.pnpm/registry.npmmirror.com+ant-design-vue@3.2.20_vue@3.2.47/node_modules/ant-design-vue/lib/button/style/index.less", "../../../../node_modules/.pnpm/registry.npmmirror.com+ant-design-vue@3.2.20_vue@3.2.47/node_modules/ant-design-vue/lib/button/style/index.js"],
+  "sourcesContent": ["import \"vite-dep-pre-bundle-external:D:/desktop/workspace/project/2023/kunkka-vitepress/node_modules/.pnpm/registry.npmmirror.com+ant-design-vue@3.2.20_vue@3.2.47/node_modules/ant-design-vue/lib/style/default.less\";", "import \"vite-dep-pre-bundle-external:D:/desktop/workspace/project/2023/kunkka-vitepress/node_modules/.pnpm/registry.npmmirror.com+ant-design-vue@3.2.20_vue@3.2.47/node_modules/ant-design-vue/lib/button/style/index.less\";", "\"use strict\";\n\nrequire(\"../../style/default.less\");\nrequire(\"./index.less\");"],
+  "mappings": ";;;;;;AAAA;AAAA,OAAO;AAAP;AAAA;AAAA;AAAA;;;ACAA;AAAA,OAAO;AAAP;AAAA;AAAA;AAAA;;;ACEA;AACA;",
+  "names": []
+}
